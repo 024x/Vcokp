@@ -17,9 +17,9 @@ A Telegram Bot To Encode Videos Using FFMPEG
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAnshusharma75%2FTG-videoCompress&envs=API_HASH%2CAPP_ID%2CBOT_TOKEN%2COWNER%2CTHUMBNAIL&optionalEnvs=THUMBNAIL&API_HASHDesc=Get+this+value+from+telegram.org+&APP_IDDesc=Get+this+value+from+telegram.org+&BOT_TOKENDesc=Go+to+%40Botfather+and+make+a+new+bot+and+paste+the+bot+token+here&OWNERDesc=Your+owner+Id+%28add+only+1+id+for+working+queue+feature+%29&THUMBNAILDesc=Add+thumbnail+telegraph+link+&THUMBNAILDefault=https://telegra.ph/file/3b88ebb3aa3f54caa0aea.jpg)
 
-- [Our Repo](https://github.com/Anshusharma75/TG-videoCompress)
-- [Base Repo](https://github.com/1Danish-00/CompressorQueue)
-- [Real Repo](https://github.com/Zylern/TGVid-Comp)
+-# [Our Repo](https://github.com/Anshusharma75/TG-videoCompress)
+- #[Base Repo](https://github.com/1Danish-00/CompressorQueue)
+- #[Real Repo](https://github.com/Zylern/TGVid-Comp)
 
 # What's The Extra In This Repo And Why This Repo🤔
 ● In these days [Railway](railway.app) banning many Repo on the basis of the requirements of the Repo,Railway started doing that because many people broke their terms of use they deploy illegal stuffs.
