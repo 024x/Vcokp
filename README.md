@@ -57,5 +57,5 @@ variables for indirectly deployment.
 - `BOT_TOKEN` - Bot token, {get it from [BotFather](t.me/BotFather).}
 
 ## ☆Thanks To☆
-- `Danish` - *For the Base Repo*
-- `Zylern`- *For their code*
+- `@Hrushikraj` - 
+- 
