@@ -10,7 +10,7 @@ from .FastTelethon import *
 LOGS.info("Starting...")
 
 try:
-    bot.start(bot_token=BOT_TOKEN)
+    bot.start(bot_token="6144020537:AAFAZ1ieiH3PPlFGId8TAOlMwhwg4cnFws8")
 except Exception as er:
     LOGS.info(er)
 
